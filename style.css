@@ -22,7 +22,7 @@ li {
 #main-header {
   max-width: 1400px;
   height: 100vh;
-  margin: 0 auto;
+  margin: auto;
 }
 /* navbar stying */
 .navbar {
@@ -116,7 +116,7 @@ li {
 /* services section styling */
 #services {
   max-width: 1400px;
-  margin: 0 auto;
+  margin: auto;
   height: 500px;
 }
 
@@ -226,7 +226,7 @@ li {
 
 #contact {
   max-width: 1400px;
-  margin: 0px auto;
+  margin: auto;
 }
 .contact {
   display: flex;
@@ -297,7 +297,7 @@ form input {
 
 #container {
   max-width: 1400px;
-  margin: 0px auto;
+  margin: auto;
   text-align: center;
   padding: 30px;
 }
